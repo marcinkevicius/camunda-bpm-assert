@@ -19,7 +19,7 @@
             <artifactId>camunda-engine</artifactId>
             <!-- We always *compile* with the latest RELEASE (but *test* 
                  against the release configured with -Dcamunda-bpm.version) -->
-            <version>RELEASE</version>
+            <version>7.6.0</version>
         </dependency>
         <dependency>
             <groupId>org.assertj</groupId>
